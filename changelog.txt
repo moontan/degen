@@ -1,0 +1,5 @@
+DEGEN ist mächtiger als das Schwert.
+
+Changelog:
+2012-06-17-23-30 [GMT+08:00]	m0°ntan	Resuming work on a draft XML structure to create a German morpheme dictionary.
+
