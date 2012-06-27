@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!-- DEGEN - mächtiger als das Schwert -->
 <!-- German Morpheme Dictionary v0.0.1 -->
-<degen:dictionary lang="de" type="morphemes"
-						xmlns:degen="http://globeglotter.com/xml/namespaces/degen">
+<!-- link rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" xmlns:cc="http://creativecommons.org/ns#" -->
+<degen:dictionary xml:lang="de" type="morphemes" xmlns:degen="http://globeglotter.com/xml/namespaces/degen">
+
 	<!-- begin template entry -->
 
 	<degen:entry xml:id="template" type="free-base|bound-base|bound-derivational-affix|bound-inflectional-affix">
-		<degen:allomorph number="1" syllables="1">
-			<degen:lemma xml:lang="de"/>
+		<degen:allomorph number="1">
+			<degen:lemma syllables="1"/>
 
-			<degen:phonetics transliteration="IPA" variant="standard"/>
+			<degen:phonetics transliteration="IPA" pronunciation-variant="de"/>
 
 			<degen:homonyms/>
 
@@ -17,6 +18,7 @@
 		</degen:allomorph>
 
 		<degen:meta>
+			<degen:srclang>de</degen:srclang>
 
 			<degen:wordformation>
 				<degen:type/>
@@ -44,7 +46,7 @@
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔaː.</degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">
 
-			<degen:homonyms>a (Tonart), a (Güteklasse), a (Alphabet #01), a (Seite einer Schallplatte oder Cassette)</degen:homonyms>
+			<degen:homonyms>a (Tonart), a (Güteklasse), a (Alphabet #01), a (Seite einer Schallplatte oder Cassette)<!-- replace with entry numbers later --></degen:homonyms>
 	
 			<degen:comment/>
 		</degen:allomorph>
@@ -138,53 +140,72 @@
 			<degen:lemma syllables="1">ad</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔat.</degen:phonetics>
+
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="2">ʔa.d</degen:phonetics>
+
+			<degen:homonyms/>
 		</degen:allomorph>
 
 		<degen:allomorph number="2">
-		<degen:lemma syllables="1">ac</degen:lemma>
+			<degen:lemma syllables="1">ac</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔak.</degen:phonetics>
+
+			<degen:homonyms/>
 		</degen:allomorph>
 
-			<degen:allomorph number="3">
+		<degen:allomorph number="3">
 			<degen:lemma syllables="1">af</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔa.</degen:phonetics>
+
+			<degen:homonyms/>
+		</degen:allomorph>
 
 		<degen:allomorph number="4">
 			<degen:lemma syllables="1">ag</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔa.</degen:phonetics>
 
+			<degen:homonyms/>
+		</degen:allomorph>
+
 		<degen:allomorph number="5">
 			<degen:lemma syllables="1">ak</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔak.</degen:phonetics>
+
+			<degen:homonyms/>
 		</degen:allomorph>
 
 		<degen:allomorph number="6">
 			<degen:lemma syllables="1">ap</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔap.</degen:phonetics>
+
+			<degen:homonyms/>
 		</degen:allomorph>
 
 		<degen:allomorph number="7">
 			<degen:lemma syllables="1">at</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔat.</degen:phonetics>
+
+			<degen:homonyms/>
 		</degen:allomorph>
 
 		<degen:allomorph number="8">
 			<degen:lemma syllables="1">as</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔa.</degen:phonetics>
+
+			<degen:homonyms/>
 		</degen:allomorph>
 
 		<degen:meta>
 			<degen:srclang>lat</degen:srclang>
 
-			<degen:wordformation>
+			<degen:wordformation>op
 				<degen:type>prefix</degen:type>
 
 				<degen:in_word>adj, v, n</degen:in_word>
@@ -208,10 +229,15 @@
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔam.bi.</degen:phonetics>
 
+			<degen:homonyms/>
+		</degen:allomorph>
+
 		<degen:allomorph number="2">
-		<degen:lemma syllables="1">amb</degen:lemma>
+			<degen:lemma syllables="1">amb</degen:lemma>
 
 			<degen:phonetics transliteration="IPA" pronunciation-variant="de" contextual-variant="1">ʔam.b</degen:phonetics>
+
+			<degen:homonyms/>
 		</degen:allomorph>
 
 		<degen:meta>
@@ -224,9 +250,83 @@
 			</degen:wordformation>
 
 			<degen:semantics>
-				<degen:synonyms>heran-, hinzu-,</degen:synonyms>
+				<degen:synonyms>umher-</degen:synonyms>
 
-				<degen:antonyms>ab-, ab-, weg-, un-, miss-</degen:antonyms>
+				<degen:antonyms/>
+
+				<degen:related/>
+			</degen:semantics>
+
+			<degen:description/>
+		</degen:meta>
+	</degen:entry>
+
+	<degen:entry xml:id="L00005" type="bound-derivational-affix">
+		<degen:allomorph number="1">
+			<degen:lemma syllables="2">ante</degen:lemma>
+
+			<degen:phonetics transliteration="IPA" pronunciation-variant="de">ʔan.te.</degen:phonetics>
+
+			<degen:homonyms/>
+
+			<degen:comment/>
+		</degen:allomorph>
+
+		<degen:allomorph number="2">
+			<degen:lemma syllables="2">anti</degen:lemma>
+
+			<degen:phonetics transliteration="IPA" pronunciation-variant="de">ʔan.ti.</degen:phonetics>
+
+			<degen:homonyms/>
+
+			<degen:comment/>
+		</degen:allomorph>
+
+		<degen:meta>
+			<degen:srclang>lat</degen:srclang>
+
+			<degen:wordformation>
+				<degen:type>prefix</degen:type>
+
+				<degen:in_word>adj, v, n</degen:in_word>
+			</degen:wordformation>
+
+			<degen:semantics>
+				<degen:synonyms>voraus-, vor-, über-</degen:synonyms>
+
+				<degen:antonyms>post-, nach-</degen:antonyms>
+
+				<degen:related/>
+			</degen:semantics>
+
+			<degen:description/>
+		</degen:meta>
+	</degen:entry>
+
+	<degen:entry xml:id="L00006" type="bound-derivational-affix">
+		<degen:allomorph number="1">
+			<degen:lemma syllables="2">äqui</degen:lemma>
+
+			<degen:phonetics transliteration="IPA" pronunciation-variant="de">ʔɛ.kvi.</degen:phonetics>
+
+			<degen:homonyms/>
+
+			<degen:comment/>
+		</degen:allomorph>
+
+		<degen:meta>
+			<degen:srclang>lat</degen:srclang>
+
+			<degen:wordformation>
+				<degen:type>prefix</degen:type>
+
+				<degen:in_word/>
+			</degen:wordformation>
+
+			<degen:semantics>
+				<degen:synonyms/>
+
+				<degen:antonyms/>
 
 				<degen:related/>
 			</degen:semantics>
