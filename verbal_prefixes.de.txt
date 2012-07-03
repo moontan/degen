@@ -10,6 +10,7 @@ bei-
 beieinander-
 dabei-
 dar-
+drumherum-
 durch-
 durcheinander-
 ein-
@@ -63,12 +64,16 @@ ver-
 verab-
 veran-
 veraus-
+(verschütt-)
 verun-
+vonstatten-
 vor-
 vorab-
 voran-
 voraus-
+vorbei-
 vorher-
+vorüber-
 vorweg-
 weg-
 wider-
@@ -78,4 +83,5 @@ zu-
 zueinander-
 zuge-
 zurecht-
+zurück-
 zusammen-
