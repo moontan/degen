@@ -1,0 +1,302 @@
+CC-BY-NC-SA-3.0 Axel Kirch
+
+Verbstammverändernde Unregelmäßigkeiten:
+
+e > i
+--------------------------------
+Veränderter Verbstamm bei
+2. u. 3. Pers. sing. + Imp. 2. Pers. sing.
+
+geben {Gib mir deinen Saft}
+sprechen
+brechen {Marmor, Stein und Eisen bricht}
+dreschen
+helfen
+sterben
+erschrecken (aber nicht: verschrecken?)
+quellen
+sehen 
+bergen
+[be]fehlen
+[emp]fehlen (aber nicht: fehlen, verfehlen /!\)
+werfen
+stechen
+werben
+verderben
+nehmen
+stehlen
+(werden)
+(essen, fressen, lesen, schmelzen, s. u.)
+(fechten, bersten, s. u.)
+
+a(u) > ä(u)
+--------------------------------
+Veränderter Verbstamm bei 
+2. u. 3. Pers. sing.
+
+fahren
+schlafen
+[vor]schlagen
+backen
+[ge]fallen
+laufen
+saufen (aber nicht: kaufen, raufen, schnaufen, taufen)
+
+~el-n
+--------------------------------
+1. Pers. sing.: e kann vor l am 
+Ende des Verbstamms wegfallen; 
+Imperativ 2. Pers. Sing. 
+
+
+segeln
+handeln
+wandeln
+[an]bandeln
+regeln
+tadeln
+radeln
+sammeln
+rüffeln
+rütteln
+schütteln
+[ver]mitteln
+kuscheln
+basteln
+häkeln
+ekeln
+veredeln
+wedeln
+fummeln
+[ab]wimmeln
+[an]himmeln
+winseln
+pinseln
+wackeln
+ruckeln
+[zer]stückeln
+heckseln
+wechseln
+rieseln
+rodeln
+dudeln
+säbeln
+hobeln
+fiedeln
+hebeln
+spachteln
+[auf]gabeln
+[ver]ästeln
+[ver]kabeln
+prügeln
+zügeln
+vögeln
+hecheln
+werkeln (<werken)
+lächeln (<lachen)
+köcheln (<kochen)
+hüsteln (<husten)
+knebeln
+[ver]nebeln
+säuseln (<sausen)
+kräuseln
+
+~er-n
+--------------------------------
+1. u. 3. Pers. pl.: ~n
+
+rudern
+pudern
+hadern
+wandern
+ändern
+rädern
+modern
+baggern
+schlabbern
+[zer]splittern
+[zer]schmettern
+brettern
+wabern
+[an]biedern
+[er]obern
+[be]muttern
+äußern
+labern
+fiebern
+
+~[b|ch|ck|d|f|g|m]+[n|m]-en
+--------------------------------
+2. Pers. sing.: ~est statt ~st
+3. Pers. sing./2. Pers. pl.: ~et statt ~t
+
+ordnen
+ebnen
+regnen
+segnen
+[be]gegnen
+[ent]gegnen
+leugnen
+rechnen
+zeichnen
+wappnen
+[be]waffnen
+öffnen
+trocknen
+[ver]vollkommnen
+[be]willkommnen
+widmen
+atmen
+
+~t/d-en
+--------------------------------
+2. Pers. sing.: ~est statt ~st
+3. Pers. sing./2. Pers. pl.: ~et statt ~t
+
+warten
+walten
+arbeiten
+verarzten
+baden
+finden
+reden
+husten
+leisten
+kosten
+bluten
+[zu]muten
+hüten
+mieten
+gleiten
+reiten
+bereiten
+schaden
+beten
+bitten
+bieten
+waten
+pusten
+gebärden
+sieden
+roden
+erden
+schneiden
+leiden
+weiden
+kleiden
+[ent]arten
+testen
+richten
+meiden
+scheiden
+[an]kreiden
+
+~s/z/ß/x-en
+--------------------------------
+2. Pers. sing.: ~t statt ~st
+
+reisen
+reißen
+reizen
+tanzen
+beißen
+heißen
+hassen
+passen
+[ver]blassen
+[ver]missen
+pressen
+hexen
+feixen
+fixen
+mixen
+gießen
+genießen
+schließen
+schießen
+scheißen
+schmeißen
+fließen
+schubsen
+wichsen
+blitzen
+schätzen
+ätzen
+ächzen
+krächzen
+lechzen
+schmatzen
+seufzen
+rülpsen
+furzen
+pupsen
+tosen
+rasen
+dösen
+herzen
+schmerzen
+bumsen
+quarzen
+[ab]holzen
+(müssen)
+
+Mischformen
+================================
+
+a > ä + ~s-en
+--------------------------------
+lassen
+[ver]lassen
+wachsen
+blasen
+
+e > i + ~s/z-en
+--------------------------------
+lesen
+essen
+fressen
+vergessen
+messen
+schmelzen
+
+a > ä und e > i heben ~t/d-en auf
+--------------------------------
+raten
+laden
+halten
+treten
+[ver]gelten
+schelten
+fechten
+(werden)
+bersten (Achtung Vermeidung von doppeltem ‘st’: 2. Pers. sing. ist ebenfalls “birst”)
+
+Englische Wortstämme
+--------------------------------
+skaten (~t)
+joggen
+jobben
+chatten (~t)
+shoppen
+surfen
+
+
+~ieren
+--------------------------------
+chauffieren (fr)
+buchstabieren (de)
+frisieren (fr)
+zelebrieren (la)
+genieren (fr)
+möblieren (fr)
+kapieren (it)
+dinieren (fr)
+krëieren (la)
+bandagieren (fr)
+intrigieren
+konfigurieren
+informieren
+initiieren
+verbalisieren
+magnetisieren
+(Achtung: Ist “-ier-” Teil des Verbstamms, gilt Partizipialregel für deutsche Verben; z. B.: zieren, stieren, frieren, verlieren, schmieren, vertieren, gieren)
