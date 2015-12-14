@@ -51,6 +51,7 @@ Ende des Verbstamms wegfallen;
 Imperativ 2. Pers. Sing. 
 
 
+paddeln
 segeln
 handeln
 wandeln
