@@ -29,7 +29,7 @@ stehlen
 (essen, fressen, lesen, schmelzen, s. u.)
 (fechten, bersten, s. u.)
 
-a(u) > ä(u)
+a(u)/o > ä(u)/ö
 --------------------------------
 Veränderter Verbstamm bei 
 2. u. 3. Pers. sing.
@@ -41,6 +41,7 @@ backen
 [ge]fallen
 laufen
 saufen (aber nicht: kaufen, raufen, schnaufen, taufen)
+stoßen
 
 ~el-n
 --------------------------------
