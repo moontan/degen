@@ -41,6 +41,7 @@ backen
 [ge]fallen
 laufen
 saufen (aber nicht: kaufen, raufen, schnaufen, taufen)
+waschen
 stoßen
 
 ~el-n
@@ -126,7 +127,7 @@ wabern
 labern
 fiebern
 
-~[b|ch|ck|d|f|g|m]+[n|m]-en
+~[b|ch|ck|d|t|f|g|m]+[n|m|w]-en
 --------------------------------
 2. Pers. sing.: ~est statt ~st
 3. Pers. sing./2. Pers. pl.: ~et statt ~t
@@ -175,20 +176,21 @@ bitten
 bieten
 waten
 pusten
-gebärden
-sieden
-roden
 erden
-schneiden
-leiden
-weiden
+gebärden
 kleiden
+[an]kreiden
+leiden
+meiden
+roden
+scheiden
+schneiden
+sieden
+weiden
 [ent]arten
 testen
 richten
-meiden
-scheiden
-[an]kreiden
+
 
 ~s/z/ß/x-en
 --------------------------------
@@ -205,9 +207,10 @@ passen
 [ver]blassen
 [ver]missen
 pressen
-hexen
+boxen
 feixen
 fixen
+hexen
 mixen
 gießen
 genießen
@@ -256,7 +259,7 @@ vergessen
 messen
 schmelzen
 
-a > ä und e > i heben ~t/d-en auf
+a(u)/o > ä(u)/ö und e > i heben ~t/d-en auf
 --------------------------------
 raten
 laden
